@@ -1,0 +1,13 @@
+{
+	"MONGO_CONFIG" :
+	{
+		"host" : ["35.185.180.91:27017"],
+		"timeout" : 300000,
+		"database" : "Journal"
+	},
+	"AUTHORIZATION" :{
+		"salt" : "a4337bc45a8fc544c03f52dc550cd6e1e87021bc896588bd79e901e2",
+		"secretkey" : "journalism",
+		"algorithm" : "HS256"
+	}
+}
